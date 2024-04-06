@@ -1,6 +1,8 @@
 # Visual Odometry
 This repo contains an example visual odometry system implemented in python, based loosely off work by Christian Forster et al. on "On-Manifold Preintegration for Real-Time Visual-Inertial Odometry".
 
+[Examle output video](https://drive.google.com/file/d/11G_H6GwXcmhNFyoeUJXj8ZadJx0zUQ9a/view?usp=sharing)
+
 **Remark:** This repo was made quickly for a little school project, and is not intended to be anything more than a basic demo of the work we did. Apologies in advance!
 
 The main entry point is the `feature_tracking.py` file, which processes a stereo video from the EuRoC dataset into a `landmarks.csv` file.
